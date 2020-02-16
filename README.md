@@ -1,3 +1,3 @@
 # Practice-Plugin
 Clone of kohi practice plugin made mainly by me and from scratch.
-[![](https://img.youtube.com/vi/1_dZ5xeepM0/0.jpg)](https://www.youtube.com/watch?v=1_dZ5xeepM0)
+[![](http://i3.ytimg.com/vi/1_dZ5xeepM0/maxresdefault.jpg)](https://www.youtube.com/watch?v=1_dZ5xeepM0)
