@@ -1,0 +1,22 @@
+main: me.xorrad.practice.Practice
+name: Practice
+version: 2.0
+author: [Xorrad]
+commands:
+    ping:
+    spawn:
+    setglobalspawn:
+    build:
+    editkit:
+    elo:
+    arena:
+      permission: arena.use
+    elo:
+    inv:
+    duel:
+    accept:
+    decline:
+    spectate:
+    spec:
+    team:
+    tournament:
